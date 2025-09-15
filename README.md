@@ -26,6 +26,8 @@ Confusion matrix analysis
 Feature importance comparison
 
 SHAP analysis for interpretability
+<img width="554" height="676" alt="image" src="https://github.com/user-attachments/assets/c0a4e9ea-53b8-4ef7-beee-aa38dd40a74e" />
+
 
 📊 Dataset
 
@@ -46,6 +48,8 @@ Preprocessing steps:
 Handling missing values
 
 SMOTE oversampling for class imbalance
+<img width="899" height="601" alt="image" src="https://github.com/user-attachments/assets/ea211cd0-3435-44db-9d80-0a4edc5e0892" />
+
 
 Train-test split
 
@@ -102,6 +106,7 @@ club_value and age have the highest influence
 Physical characteristics (height, weight) moderately impact prediction
 
 Player position & foot are lower but non-negligible contributors
+<img width="1063" height="559" alt="image" src="https://github.com/user-attachments/assets/c449b371-1d4c-4980-86f9-0fc7ed3dff7f" />
 
 🚀 Usage
 
