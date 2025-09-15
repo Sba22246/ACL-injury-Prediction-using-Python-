@@ -51,6 +51,8 @@ Train-test split
 
 🧰 Models & Performance
 Random Forest (RF)
+<img width="1409" height="845" alt="image" src="https://github.com/user-attachments/assets/ae749ef9-43b1-47f2-bb62-2719c403af29" />
+
 
 Recall: 0.17
 
@@ -102,11 +104,6 @@ Physical characteristics (height, weight) moderately impact prediction
 Player position & foot are lower but non-negligible contributors
 
 🚀 Usage
-
-Clone the repository:
-
-git clone https://github.com/yourusername/soccer-injury-prediction.git
-
 
 Install dependencies:
 
